@@ -6,6 +6,7 @@
  
 - Macromolecules
 - Soft matter
+- [Polymer](https://www.journals.elsevier.com/polymer)
  
 1. 高分子科学
 2. 分子動力学
